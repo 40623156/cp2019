@@ -138,7 +138,7 @@ init_mathjax();
                             <li><a href="./../blog/index.html">blog</a></li>
                         </ul>
                       </li>
-                     <li><a href='About.html'>About</a><li><a href='Develop.html'>Develop</a><li><a href='程式.html'>程式</a></li>
+                     <li><a href='About.html'>About</a><li><a href='Develop.html'>Develop</a><li><a href='DartPad.html'>DartPad</a></li>
                       </ul>
                 </nav>
               </div>
@@ -149,59 +149,10 @@ init_mathjax();
           </div>
           
         </header>
-    <div id="tipue_search_content">Develop << <a href='Develop.html'>Previous</a> <br /><h1>程式</h1>
-<pre class="brush:dart;auto-links:false;toolbar:false" contenteditable="false">import 'dart:html';
-
-void main() {
-  // 每一組 10 人
-  int num = 10;
-  // 組序由 1 開始
-  int gth = 1;
-  // 迴圈序號變數
-  int i;
-  // 每組學員暫存數列
-  var gp_list = [];
-  // 全班分組數列
-  var cp2019 = [];
-
-  HttpRequest.getString(
-          'https://mde.tw/cp2019/downloads/2019fall_cp_1a_list.txt')
-      .then((String resp) {
-    // 利用 trim() 去除字串最後的跳行符號, 之後再利用 split() 根據 \n 轉為數列
-    var stud_list = resp.trim().split("\n");
-    // 數列利用 shuffle() 方法以隨機方法弄亂順序
-    stud_list.shuffle();
-    // 逐一讀取已經弄亂的學生學號數列, 利用模數運算每幾人分成一組
-    for (i = 0; i &lt; stud_list.length; i++) {
-      // 0, 1~(num-1), num
-      if (i % num == 0) {
-        gp_list = [];
-        // 列印區隔符號
-        print('=' * 20);
-        print("group $gth :");
-        print(stud_list[i]);
-        // 在各分組數列中加入將對應的學員學號
-        gp_list.add(stud_list[i]);
-        gth = gth + 1;
-      } else {
-        print(stud_list[i]);
-        // 在各分組數列中加入將對應的學員學號
-        gp_list.add(stud_list[i]);
-      }
-      if (i % num == 0) {
-        // 逐步將各組暫存的分組數列加入全班分組數列中
-        cp2019.add(gp_list);
-      }
-    }
-    // 對各組學號排序
-    cp2019.forEach((element){element.sort();});
-    // 列出分組且排序後數列
-    print(cp2019);
-  });
-}
-</pre>
-<p><br/><br/></p>
-<p></p><br />Develop << <a href='Develop.html'>Previous</a> </div>
+    <div id="tipue_search_content">Develop << <a href='Develop.html'>Previous</a> <br /><h1>DartPad</h1>
+<p>DartPad:<a href="https://dartpad.dev/?id=d9b25abea2a13a90f3fd6119f331f32d">https://dartpad.dev/?id=d9b25abea2a13a90f3fd6119f331f32d</a></p>
+<p>Gist:<a href="https://gist.github.com/40623156/d9b25abea2a13a90f3fd6119f331f32d">https://gist.github.com/40623156/d9b25abea2a13a90f3fd6119f331f32d</a></p>
+<p><iframe height="600" src="https://dartpad.dev/embed-inline.html?id=d9b25abea2a13a90f3fd6119f331f32d" width="800"></iframe></p><br />Develop << <a href='Develop.html'>Previous</a> </div>
         
     <!-- footer -->
       <div class="container">
