@@ -65,8 +65,8 @@
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1"><vh>2018</vh>
-<v t="leo.20191107110126.1"><vh>40623456期中報告</vh>
-<v t="leo.20191107110126.2"><vh>@期中報告影片</vh></v>
+<v t="leo.20191107122730.1"><vh>2019FULL</vh>
+<v t="leo.20191107122730.2"><vh>@edit 2019.md</vh></v>
 </v>
 <v t="leo.20180423103639.1"><vh>2018FULL</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20180910.md</vh></v>
@@ -103,19 +103,7 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180115142025.1"></t>
 <t tx="leo.20180423103639.1"></t>
-<t tx="leo.20191107110126.1"></t>
-<t tx="leo.20191107110126.2">@language md
----
-Title: 期中報告影片
-Date: 2019-11-07 11:00
-Category: Misc
-Tags: 期中報告
-Slug: 40623156
-Author: lin
----
-期中報告影片
-----
-1111</t>
+<t tx="leo.20191107122730.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
