@@ -115,7 +115,7 @@ Author: lin
 
 期中報告影片
 ----
-&lt;iframe width="893" height="502" src="https://www.youtube.com/embed/6SGzit49lrc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+1111</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
