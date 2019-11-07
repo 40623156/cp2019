@@ -112,7 +112,9 @@ Category: Misc
 Tags: 期中報告
 Slug: 40623156
 Author: lin
----
+
+期中報告影片
+----
 &lt;iframe width="893" height="502" src="https://www.youtube.com/embed/6SGzit49lrc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
