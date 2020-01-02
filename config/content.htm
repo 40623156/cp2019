@@ -92,11 +92,70 @@ document.getElementById("iframe").height = 600 ;
 <h2>期末報告</h2>
 <h1>W16 查驗考試</h1>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/Zhbz5_0Ew5s" width="560"></iframe></p>
-<h1>W17 查驗考試</h1>
+<script>
+function getDart(dirname){
+    source = "https://dartpad.github.io/embed-dart.html?gh_owner=40623156&gh_repo=CP2019&gh_path=downloads/dart_ex/" + dirname + "&theme=dark";
+    document.getElementById("iframe").src = source ;
+}
+
+function getHtmlDart(dirname){
+    source = "https://dartpad.github.io/embed-html.html?gh_owner=40623156&gh_repo=CP2019&gh_path=downloads/dart_ex/" + dirname + "&theme=dark";
+document.getElementById("iframe").src = source ;
+}
+
+function getFlutter(dirname){
+    source = "https://dartpad.github.io/embed-flutter.html?gh_owner=40623156&gh_repo=CP2019&gh_path=downloads/dart_ex/" + dirname + "&theme=dark";
+document.getElementById("iframe").src = source ;
+}
+
+function largest(){
+document.getElementById("iframe").width = document.body.clientWidth ;
+document.getElementById("iframe").height = document.body.clientWidth*0.5 ;
+}
+
+function original(){
+document.getElementById("iframe").width = 800 ;
+document.getElementById("iframe").height = 600 ;
+}
+</script>
+<p><!-- 取 Dart 程式的按鈕 --></p>
+<h4>Html 程式</h4>
+<p><button onclick="getHtmlDart('roc_flag')">ROC Flag</button></p>
+<p><button onclick="getHtmlDart('usa_flag')">美國國旗</button></p>
+<p><!-- 內建放入的 Dart 原始碼 --></p>
+<p><button onclick="largest()">放大</button> <button onclick="original()">回復</button></p>
+<p><br/><iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40623156&amp;gh_repo=CP2019&amp;gh_path=downloads/dart_ex/for&amp;theme=dark" width="800"></iframe></p><h1>W17 查驗考試</h1>
 <p>製作流程:</p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/jxc6OKyLlXg" width="560"></iframe></p>
 <p>程式碼:</p>
 <p><iframe height="600" src="https://dartpad.dev/embed-inline.html?id=14c1312a9a5991088c422f0c2107ee61" width="800"></iframe></p>
-<p></p>
+<p>
+<script>
+function getDart(dirname){
+    source = "https://dartpad.github.io/embed-dart.html?gh_owner=40623156&gh_repo=CP2019&gh_path=downloads/dart_ex/" + dirname + "&theme=dark";
+    document.getElementById("iframe").src = source ;
+}
+
+function getHtmlDart(dirname){
+    source = "https://dartpad.github.io/embed-html.html?gh_owner=40623156&gh_repo=CP2019&gh_path=downloads/dart_ex/" + dirname + "&theme=dark";
+document.getElementById("iframe").src = source ;
+}
+
+function getFlutter(dirname){
+    source = "https://dartpad.github.io/embed-flutter.html?gh_owner=40623156&gh_repo=CP2019&gh_path=downloads/dart_ex/" + dirname + "&theme=dark";
+document.getElementById("iframe").src = source ;
+}
+
+function largest(){
+document.getElementById("iframe").width = document.body.clientWidth ;
+document.getElementById("iframe").height = document.body.clientWidth*0.5 ;
+}
+
+function original(){
+document.getElementById("iframe").width = 800 ;
+document.getElementById("iframe").height = 600 ;
+}
+</script>
+</p>
 <p></p>
 <p></p>
