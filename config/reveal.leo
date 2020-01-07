@@ -47,7 +47,7 @@
 <v t="leo.20200107175241.1"><vh>HELLO</vh>
 <v t="leo.20200107175241.2"><vh>1</vh></v>
 </v>
-<v t="leo.20200107185200.1"><vh>BUTTON</vh>
+<v t="leo.20200107185200.1"><vh>BUTTION</vh>
 <v t="leo.20200107185200.2"><vh>B</vh></v>
 </v>
 <v t="leo.20200107175239.1"><vh>溫度轉換</vh>
@@ -438,12 +438,9 @@ vertical: body pane on the botton</t>
 [網頁](./../index.html)
 
 </t>
-<t tx="leo.20200107185150.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20200107185150.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
-
 
 						
 </t>
@@ -505,19 +502,15 @@ vertical: body pane on the botton</t>
 
 &lt;img src ="./../images\BL.jpg"  width="800" height="450
 " frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;</t>
-<t tx="leo.20200107185737.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20200107185737.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
 						
 </t>
-<t tx="leo.20200107185740.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20200107185740.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
@@ -604,7 +597,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200107195537.4">## 重量單位轉換
+<t tx="leo.20200107195537.4">## 17周查驗報告
 
 &lt;iframe width="556" height="310" src="https://www.youtube.com/embed/jxc6OKyLlXg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
