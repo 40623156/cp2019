@@ -34,8 +34,12 @@
 <v t="leo.20200107185153.2"><vh>D</vh></v>
 </v>
 <v t="leo.20200107185150.1"><vh>DIA</vh>
-<v t="leo.20200107185150.2"><vh>DIA</vh></v>
-<v t="leo.20200107191657.1"><vh>影片1</vh></v>
+<v t="leo.20200107200256.1"><vh>圖1</vh>
+<v t="leo.20200107200256.2"><vh>DIA</vh></v>
+</v>
+<v t="leo.20200107200248.1"><vh>V1</vh>
+<v t="leo.20200107200248.3"><vh>影片1</vh></v>
+</v>
 </v>
 <v t="leo.20200107190950.1"><vh>Dartpad程式</vh>
 <v t="leo.20200107190950.2"><vh>6</vh></v>
@@ -440,12 +444,6 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200107185150.2">## DIA製作與樹狀圖輸出
-
-&lt;img src ="./../images\DIA.jpg"  width="800" height="450
-" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img
-
-[網頁連結](https://40623156.github.io/cp2019/content/%E8%A3%BD%E4%BD%9CDia%E8%BC%B8%E5%87%BA%E6%A8%B9%E7%8B%80%E5%9C%96.html)</t>
 <t tx="leo.20200107185153.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -458,7 +456,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200107185153.2">## Dartpad推送
 
 &lt;img src ="./../images\D.jpg"  width="800" height="450
-" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img
+" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
 
 [網頁連結](https://40623156.github.io/cp2019/content/Dartpad%E6%8E%A8%E9%80%81.html)</t>
 <t tx="leo.20200107185155.1">&lt;section data-markdown&gt;
@@ -473,7 +471,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200107185155.2">## 溫度轉換
 
 &lt;img src ="./../images\T.jpg"  width="800" height="450
-" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img
+" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
 
 [網頁連結](https://40623156.github.io/cp2019/content/%E6%BA%AB%E5%BA%A6%E8%BD%89%E6%8F%9B.html)</t>
 <t tx="leo.20200107185200.1">&lt;section data-markdown&gt;
@@ -488,6 +486,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200107185200.2">## BUTTON
 
 &lt;img src ="./../images\B.jpg"  width="800" height="450
+" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
 
 [網頁連結](https://40623156.github.io/cp2019/content/Button.html)</t>
 <t tx="leo.20200107185209.1">&lt;section data-markdown&gt;
@@ -502,7 +501,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200107185209.2">## BLOG維護
 
 &lt;img src ="./../images\BL.jpg"  width="800" height="450
-" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img</t>
+" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;</t>
 <t tx="leo.20200107185737.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -549,9 +548,6 @@ vertical: body pane on the botton</t>
 # Dartpad程式
 
 </t>
-<t tx="leo.20200107191657.1">## DIA製作與樹狀圖輸出
-
-&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/XxHo1EtWPNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200107195238.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -564,7 +560,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200107195238.2">## 美國國旗製作
 
 &lt;img src ="./../images\16.jpg"  width="800" height="450
-" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img
+" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
+
 [網頁連結](https://40623156.github.io/cp2019/content/W16%20%E6%9F%A5%E9%A9%97%E8%80%83%E8%A9%A6.html)</t>
 <t tx="leo.20200107195246.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -592,7 +589,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200107195454.2">## 重量單位轉換
 
 &lt;img src ="./../images\17.jpg"  width="800" height="450
-" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img
+" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
+
 [網頁連結](https://40623156.github.io/cp2019/content/W17%20%E6%9F%A5%E9%A9%97%E8%80%83%E8%A9%A6.html)</t>
 <t tx="leo.20200107195537.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -608,5 +606,32 @@ vertical: body pane on the botton</t>
 &lt;iframe width="556" height="310" src="https://www.youtube.com/embed/jxc6OKyLlXg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
+<t tx="leo.20200107200248.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200107200248.3">## DIA製作與樹狀圖輸出
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/XxHo1EtWPNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200107200256.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200107200256.2">## DIA製作與樹狀圖輸出
+
+&lt;img src ="./../images\DIA.jpg"  width="800" height="450
+" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
+
+[網頁連結](https://40623156.github.io/cp2019/content/%E8%A3%BD%E4%BD%9CDia%E8%BC%B8%E5%87%BA%E6%A8%B9%E7%8B%80%E5%9C%96.html)</t>
 </tnodes>
 </leo_file>
