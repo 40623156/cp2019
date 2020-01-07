@@ -34,7 +34,7 @@
 <v t="leo.20200107185153.2"><vh>D</vh></v>
 </v>
 <v t="leo.20200107185150.1"><vh>DIA</vh>
-<v t="leo.20200107200256.1"><vh>圖1</vh>
+<v t="leo.20200107200256.1"><vh>P1</vh>
 <v t="leo.20200107200256.2"><vh>DIA</vh></v>
 </v>
 <v t="leo.20200107200248.1"><vh>V1</vh>
@@ -57,7 +57,7 @@
 <v t="leo.20200107175236.4"><vh>3</vh></v>
 </v>
 <v t="leo.20200107185737.1"><vh>W16</vh>
-<v t="leo.20200107195238.1"><vh>圖2</vh>
+<v t="leo.20200107195238.1"><vh>P2</vh>
 <v t="leo.20200107195238.2"><vh>16</vh></v>
 </v>
 <v t="leo.20200107195246.1"><vh>v2</vh>
@@ -65,12 +65,15 @@
 </v>
 </v>
 <v t="leo.20200107185740.1"><vh>W17</vh>
-<v t="leo.20200107195454.1"><vh>圖3</vh>
+<v t="leo.20200107195454.1"><vh>P3</vh>
 <v t="leo.20200107195454.2"><vh>17</vh></v>
 </v>
 <v t="leo.20200107195537.1"><vh>v3</vh>
 <v t="leo.20200107195537.4"><vh>影片3</vh></v>
 </v>
+</v>
+<v t="leo.20200107220921.1"><vh>FINAL</vh>
+<v t="leo.20200107220921.2"><vh>END</vh></v>
 </v>
 <v t="leo.20200107172753.1"><vh></vh>
 <v t="leo.20200107172753.2"><vh>投影片快捷鍵</vh></v>
@@ -557,7 +560,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200107195238.2">## 美國國旗製作
+<t tx="leo.20200107195238.2">## 美國國旗
 
 &lt;img src ="./../images\16.jpg"  width="800" height="450
 " frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
@@ -572,7 +575,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200107195246.3">## 美國國旗製作
+<t tx="leo.20200107195246.3">## 16周查驗報告
 
 &lt;iframe width="556" height="310" src="https://www.youtube.com/embed/Zhbz5_0Ew5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -633,5 +636,19 @@ vertical: body pane on the botton</t>
 " frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
 
 [網頁連結](https://40623156.github.io/cp2019/content/%E8%A3%BD%E4%BD%9CDia%E8%BC%B8%E5%87%BA%E6%A8%B9%E7%8B%80%E5%9C%96.html)</t>
+<t tx="leo.20200107220921.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200107220921.2">
+
+# 報告結束
+
+</t>
 </tnodes>
 </leo_file>
