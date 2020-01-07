@@ -53,12 +53,20 @@
 <v t="leo.20200107175236.4"><vh>3</vh></v>
 </v>
 <v t="leo.20200107185737.1"><vh>W16</vh>
-<v t="leo.20200107185737.2"><vh>16</vh></v>
-<v t="leo.20200107190232.1"><vh>影片2</vh></v>
+<v t="leo.20200107195238.1"><vh>圖2</vh>
+<v t="leo.20200107195238.2"><vh>16</vh></v>
+</v>
+<v t="leo.20200107195246.1"><vh>v2</vh>
+<v t="leo.20200107195246.3"><vh>影片2</vh></v>
+</v>
 </v>
 <v t="leo.20200107185740.1"><vh>W17</vh>
-<v t="leo.20200107185740.2"><vh>17</vh></v>
-<v t="leo.20200107190510.1"><vh>影片3</vh></v>
+<v t="leo.20200107195454.1"><vh>圖3</vh>
+<v t="leo.20200107195454.2"><vh>17</vh></v>
+</v>
+<v t="leo.20200107195537.1"><vh>v3</vh>
+<v t="leo.20200107195537.4"><vh>影片3</vh></v>
+</v>
 </v>
 <v t="leo.20200107172753.1"><vh></vh>
 <v t="leo.20200107172753.2"><vh>投影片快捷鍵</vh></v>
@@ -376,7 +384,7 @@ vertical: body pane on the botton</t>
 
 &lt;iframe src="https://dartpad.dev/?id=14c1312a9a5991088c422f0c2107ee61" width="800" height="550"&gt;&lt;/iframe&gt;
 
-網頁連結(https://40623156.github.io/cp2019/content/%E6%BA%AB%E5%BA%A6%E8%BD%89%E6%8F%9B.html)</t>
+[網頁連結](https://40623156.github.io/cp2019/content/%E6%BA%AB%E5%BA%A6%E8%BD%89%E6%8F%9B.html)</t>
 <t tx="leo.20200107175239.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -390,7 +398,7 @@ vertical: body pane on the botton</t>
 
 &lt;iframe src="https://dartpad.dev/?id=89e8ad09df37d928d0fc718814a2edb0" width="800" height="550"&gt;&lt;/iframe&gt;
 
-網頁連結(https://40623156.github.io/cp2019/content/%E6%BA%AB%E5%BA%A6%E8%BD%89%E6%8F%9B.html)</t>
+[網頁連結](https://40623156.github.io/cp2019/content/%E6%BA%AB%E5%BA%A6%E8%BD%89%E6%8F%9B.html)</t>
 <t tx="leo.20200107175241.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -404,7 +412,7 @@ vertical: body pane on the botton</t>
 
 &lt;iframe src="https://dartpad.dev/?id=d9b25abea2a13a90f3fd6119f331f32d" width="800" height="550"&gt;&lt;/iframe&gt;
 
-網頁連結(https://40623156.github.io/cp2019/content/Hello.html)</t>
+[網頁連結](https://40623156.github.io/cp2019/content/Hello.html)</t>
 <t tx="leo.20200107175243.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -435,8 +443,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200107185150.2">## DIA製作與樹狀圖輸出
 
 &lt;img src ="./../images\DIA.jpg"  width="800" height="450
+" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img
 
-網頁連結(https://40623156.github.io/cp2019/content/%E8%A3%BD%E4%BD%9CDia%E8%BC%B8%E5%87%BA%E6%A8%B9%E7%8B%80%E5%9C%96.html)</t>
+[網頁連結](https://40623156.github.io/cp2019/content/%E8%A3%BD%E4%BD%9CDia%E8%BC%B8%E5%87%BA%E6%A8%B9%E7%8B%80%E5%9C%96.html)</t>
 <t tx="leo.20200107185153.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -449,8 +458,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200107185153.2">## Dartpad推送
 
 &lt;img src ="./../images\D.jpg"  width="800" height="450
+" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img
 
-網頁連結(https://40623156.github.io/cp2019/content/Dartpad%E6%8E%A8%E9%80%81.html)</t>
+[網頁連結](https://40623156.github.io/cp2019/content/Dartpad%E6%8E%A8%E9%80%81.html)</t>
 <t tx="leo.20200107185155.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -463,8 +473,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200107185155.2">## 溫度轉換
 
 &lt;img src ="./../images\T.jpg"  width="800" height="450
+" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img
 
-網頁連結(https://40623156.github.io/cp2019/content/%E6%BA%AB%E5%BA%A6%E8%BD%89%E6%8F%9B.html)</t>
+[網頁連結](https://40623156.github.io/cp2019/content/%E6%BA%AB%E5%BA%A6%E8%BD%89%E6%8F%9B.html)</t>
 <t tx="leo.20200107185200.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -478,7 +489,7 @@ vertical: body pane on the botton</t>
 
 &lt;img src ="./../images\B.jpg"  width="800" height="450
 
-網頁連結(https://40623156.github.io/cp2019/content/Button.html)</t>
+[網頁連結](https://40623156.github.io/cp2019/content/Button.html)</t>
 <t tx="leo.20200107185209.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -491,7 +502,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200107185209.2">## BLOG維護
 
 &lt;img src ="./../images\BL.jpg"  width="800" height="450
-</t>
+" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img</t>
 <t tx="leo.20200107185737.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -501,11 +512,6 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200107185737.2">## 美國國旗製作
-
-&lt;img src ="./../images\16.jpg"  width="800" height="450
-
-網頁連結(https://40623156.github.io/cp2019/content/W16%20%E6%9F%A5%E9%A9%97%E8%80%83%E8%A9%A6.html)</t>
 <t tx="leo.20200107185740.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -514,21 +520,6 @@ vertical: body pane on the botton</t>
 
 
 						
-</t>
-<t tx="leo.20200107185740.2">## 重量單位轉換
-
-&lt;img src ="./../images\17.jpg"  width="800" height="450
-
-網頁連結(https://40623156.github.io/cp2019/content/W17%20%E6%9F%A5%E9%A9%97%E8%80%83%E8%A9%A6.html)</t>
-<t tx="leo.20200107190232.1">## 美國國旗製作
-
-&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/Zhbz5_0Ew5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
-<t tx="leo.20200107190510.1">## 重量單位轉換
-
-&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/jxc6OKyLlXg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
 </t>
 <t tx="leo.20200107190750.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -561,5 +552,61 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200107191657.1">## DIA製作與樹狀圖輸出
 
 &lt;iframe width="556" height="310" src="https://www.youtube.com/embed/XxHo1EtWPNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200107195238.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200107195238.2">## 美國國旗製作
+
+&lt;img src ="./../images\16.jpg"  width="800" height="450
+" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img
+[網頁連結](https://40623156.github.io/cp2019/content/W16%20%E6%9F%A5%E9%A9%97%E8%80%83%E8%A9%A6.html)</t>
+<t tx="leo.20200107195246.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200107195246.3">## 美國國旗製作
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/Zhbz5_0Ew5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200107195454.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200107195454.2">## 重量單位轉換
+
+&lt;img src ="./../images\17.jpg"  width="800" height="450
+" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img
+[網頁連結](https://40623156.github.io/cp2019/content/W17%20%E6%9F%A5%E9%A9%97%E8%80%83%E8%A9%A6.html)</t>
+<t tx="leo.20200107195537.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200107195537.4">## 重量單位轉換
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/jxc6OKyLlXg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 </tnodes>
 </leo_file>
