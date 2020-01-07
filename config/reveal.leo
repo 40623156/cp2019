@@ -30,9 +30,6 @@
 <v t="leo.20200107175236.1"><vh>重量單位轉換</vh>
 <v t="leo.20200107175236.4"><vh>3</vh></v>
 </v>
-<v t="leo.20180902120523.9"><vh>TEST</vh>
-<v t="leo.20200107174039.1"><vh>4</vh></v>
-</v>
 <v t="leo.20200107172753.1"><vh></vh>
 <v t="leo.20200107172753.2"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -242,15 +239,6 @@ CMSimfly 網際內容管理
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180902120523.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
 <t tx="leo.20180902120538.1"></t>
 <t tx="leo.20180902120538.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -354,10 +342,6 @@ vertical: body pane on the botton</t>
 * 按 b 或 . 鍵可以切換螢幕黑屏 (black)
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
-</t>
-<t tx="leo.20200107174039.1">## 重
-
-&lt;iframe src="https://dartpad.github.io/embed-html.html?gh_owner=40623156&amp;gh_repo=CP2019&amp;gh_path=downloads/dart_ex/" + dirname + " width="800" height="550"&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20200107175236.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
