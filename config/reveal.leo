@@ -18,13 +18,21 @@
 <v t="leo.20180902120523.6"><vh>body</vh>
 <v t="leo.20180902120523.7"><vh>reveal div</vh>
 <v t="leo.20180902120523.8"><vh>slides div</vh>
-<v t="leo.20180902120523.9"><vh>封面投影片</vh>
-<v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20200107175243.1"><vh>封面投影片</vh>
+<v t="leo.20200107175243.6"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200107172035.1"><vh>Hello</vh></v>
-<v t="leo.20200107170859.2"><vh>溫度轉換</vh></v>
-<v t="leo.20200107172240.1"><vh>重量單位轉換</vh></v>
-<v t="leo.20200107174039.1"><vh>1</vh></v>
+<v t="leo.20200107175241.1"><vh>HELLO</vh>
+<v t="leo.20200107175241.2"><vh>1</vh></v>
+</v>
+<v t="leo.20200107175239.1"><vh>溫度轉換</vh>
+<v t="leo.20200107175239.3"><vh>2</vh></v>
+</v>
+<v t="leo.20200107175236.1"><vh>重量單位轉換</vh>
+<v t="leo.20200107175236.4"><vh>3</vh></v>
+</v>
+<v t="leo.20180902120523.9"><vh>TEST</vh>
+<v t="leo.20200107174039.1"><vh>4</vh></v>
+</v>
 <v t="leo.20200107172753.1"><vh></vh>
 <v t="leo.20200107172753.2"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -53,15 +61,6 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## 計算機程式期末報告
-
-### 四設三甲 40623156 林聖翰
-
-
-[網誌](./../blog/index.html)
-[網頁](./../index.html
-
-</t>
 <t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -337,18 +336,6 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200107170859.2">## 溫度轉換
-
-&lt;iframe src="https://dartpad.dev/?id=89e8ad09df37d928d0fc718814a2edb0" width="800" height="550"&gt;&lt;/iframe&gt;
-</t>
-<t tx="leo.20200107172035.1">## Hello
-
-&lt;iframe src="https://dartpad.dev/?id=d9b25abea2a13a90f3fd6119f331f32d" width="800" height="550"&gt;&lt;/iframe&gt;
-</t>
-<t tx="leo.20200107172240.1">## 重量單位轉換
-
-&lt;iframe src="https://dartpad.dev/?id=14c1312a9a5991088c422f0c2107ee61" width="800" height="550"&gt;&lt;/iframe&gt;
-</t>
 <t tx="leo.20200107172753.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -371,6 +358,63 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200107174039.1">## 重
 
 &lt;iframe src="https://dartpad.github.io/embed-html.html?gh_owner=40623156&amp;gh_repo=CP2019&amp;gh_path=downloads/dart_ex/" + dirname + " width="800" height="550"&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200107175236.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200107175236.4">## 重量單位轉換
+
+&lt;iframe src="https://dartpad.dev/?id=14c1312a9a5991088c422f0c2107ee61" width="800" height="550"&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200107175239.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200107175239.3">## 溫度轉換
+
+&lt;iframe src="https://dartpad.dev/?id=89e8ad09df37d928d0fc718814a2edb0" width="800" height="550"&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200107175241.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200107175241.2">## Hello
+
+&lt;iframe src="https://dartpad.dev/?id=d9b25abea2a13a90f3fd6119f331f32d" width="800" height="550"&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200107175243.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200107175243.6">## 計算機程式期末報告
+
+### 四設三甲 40623156 林聖翰
+
+
+[網誌](./../blog/index.html)
+[網頁](./../index.html)
+
 </t>
 </tnodes>
 </leo_file>
